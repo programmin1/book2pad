@@ -12,6 +12,13 @@ Requirements
 Usage
 -----
 
+GUI:
+
+Run BookTransfer.py, select the device when plugged in, and just drag-and-drop to add to iBooks.
+
+
+Command-line:
+
 If the iPad's contents don't show up immediately after plugging in, mount your ipad somewhere using ifuse, say /media
 
     ifuse /media

@@ -156,7 +156,6 @@ def addbooks(root_dir, books):
             for book in fail_list:
                 print(book)
 
-
 def show_usage():
     print('Usage: book2pad [-d IPAD_MOUNTED_POINT] book1 [book2 book3 ...]\n')
     print('Use "-d" to indicate where ipad is mounted; '\
